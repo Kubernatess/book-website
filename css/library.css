@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+li a{
+	text-decoration: none;
+	list-style-type: none;
+}
+li{
+	list-style-type: none;
+}
+ul{
+	background-color: #666;
+	width: 100px;
+}
+iframe{
+	border-style: none;
+    display: inline;
+    height:660px;
+    width:1000px;
+}

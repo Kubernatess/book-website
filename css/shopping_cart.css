@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+img {
+	height: 150px;
+	width: 110px;
+	vertical-align: middle;
+	display: inline;	/*float: left;*/
+}
+ul {
+	display: inline;
+	}
+input[type="checkbox"]{
+	height: 20px;
+	width: 20px;
+	vertical-align: middle;
+}
+a{
+	color: #90C;
+	text-decoration: none;	
+}

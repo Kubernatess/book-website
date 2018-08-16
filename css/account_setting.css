@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+form {
+	margin: auto;
+	width: 300px;
+}
+input{
+	width: 300px;
+	margin-right: auto;
+	margin-bottom: 50px;
+	margin-left: auto;
+}
+input[type=submit] {
+	color: #FFF;
+	background-color: #F00;
+	border-style: none;
+	height: 50px;
+	width: 80px;
+	border-radius: 10px;
+	margin: 10px;
+}
